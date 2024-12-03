@@ -1,3 +1,3 @@
 # Presentacion del proyecto:
   
-(https://docs.google.com/presentation/d/1lYxXjvXiaWN5EcbDJuOZo_uuWDknv1-5R79Tv1BX3LE/edit#slide=id.p)
+(https://www.canva.com/design/DAGYO-OH-eI/o_OMRBTos25Ose40GP-xJw/edit?utm_content=DAGYO-OH-eI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
