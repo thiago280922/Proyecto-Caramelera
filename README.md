@@ -35,7 +35,7 @@ Un mecanismo mecánico redirige el caramelo al compartimento correspondiente.
 **Componentes utilizados**
 
 Arduino **x1**
-Sensor de color (TCS230) **x1**
+Sensor de color (TCS3200) **x1**
 Micro Servos **x2**
 Pantalla LCD **x1**
 Cables
