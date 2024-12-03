@@ -13,7 +13,7 @@ Gonzalo N. Consorti
 
 
 
-# Proyecto-Caramelera
+# Selector de caramelos RGB
 
 El **Selector de Caramelos RGB** es un proyecto diseñado para clasificar caramelos automáticamente según su color, combinando tecnología de sensores ópticos, procesamiento de datos y mecanismos mecánicos.
 
