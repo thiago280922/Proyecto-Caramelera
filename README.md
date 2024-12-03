@@ -1,6 +1,6 @@
 # Grupo 3 
 
-Adrian Mamani. - Thiago Casiano - Lucca Martinez - Valentina Palacios
+Adrián Mamani. - Thiago Casiano - Lucca Martinez - Valentina Palacios
 
 Especialidad en Computación, Escuela Técnica N°32 D.E. 14
 
