@@ -1,3 +1,18 @@
+# Grupo 3 
+
+Adrian Mamani. - Thiago Casiano - Lucca Matinez - Valentina Palacios
+
+Especialidad en Computación, Escuela Técnica N°32 D.E. 14
+
+4to2da: Proyecto Informático
+
+Gonzalo N. Consorti
+
+
+
+
+
+
 # Proyecto-Caramelera
 
 El **Selector de Caramelos RGB** es un proyecto diseñado para clasificar caramelos automáticamente según su color, combinando tecnología de sensores ópticos, procesamiento de datos y mecanismos mecánicos.
